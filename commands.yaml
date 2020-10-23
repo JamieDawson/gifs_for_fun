@@ -1,0 +1,8 @@
+commands:
+  gif:
+    description: Displays gifs with arguements and optional text.
+    parameters:
+      - name: gif_request
+        optional: false
+      - name: text_for_gif
+        optional: true
