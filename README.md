@@ -1,6 +1,6 @@
 How to use this:
 
-1. Install Commander into your MS Teams account
+1. Install Commander into your MS Teams account ( https://nimbella.com/integrations/commander/microsoft-teams )
 
 2. Run ` /nc csm_install github:JamieDawson/gifs_for_fun` in Teams.
 
