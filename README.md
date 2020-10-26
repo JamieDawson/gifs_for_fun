@@ -1,3 +1,5 @@
+![bottom giphy text](https://user-images.githubusercontent.com/16840579/97232551-91981e00-179a-11eb-97ca-d82e1901734f.gif)
+
 How to use this:
 
 1. Install Commander into your MS Teams account ( https://nimbella.com/integrations/commander/microsoft-teams )
